@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3",
+  "versionCode": 6,
+  "versionName": "1.4",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "New name and icon, retail or wholesale rate on a bill, and several fixes."
+  "notes": "Privacy and Terms page, a separate activation code for every phone, and safer handling of your data."
 }
