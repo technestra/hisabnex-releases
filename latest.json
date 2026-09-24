@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.9",
+  "versionCode": 10,
+  "versionName": "1.10",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "You now choose what each item measures - piece, weight, length, width, thickness, area, volume, roll, pack or box. Every lot arrives with its own rates, its own measurements and the lot number from the supplier bill. First run opens on a welcome screen with one worked example you can remove in a tap."
+  "notes": "Receiving stock is simpler: quantity and cost come first, lot details fold away, and the same goods added twice on a supplier bill make two lots. The app asks before a second item with the same name splits your stock. Editing a lot now covers MRP and size, and a count change is a correction with a reason. The first-run example comes from your own trade, and Help & Guide opens from the menu, Settings and the ? on each main screen."
 }
