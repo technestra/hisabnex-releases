@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.8",
+  "versionCode": 9,
+  "versionName": "1.9",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
   "notes": "You now choose what each item measures - piece, weight, length, width, thickness, area, volume, roll, pack or box. Every lot arrives with its own rates, its own measurements and the lot number from the supplier bill. First run opens on a welcome screen with one worked example you can remove in a tap."
 }
