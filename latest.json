@@ -2,5 +2,5 @@
   "versionCode": 11,
   "versionName": "1.11",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "Receiving stock is simpler: quantity and cost come first, lot details fold away, and the same goods added twice on a supplier bill make two lots. The app asks before a second item with the same name splits your stock. Editing a lot now covers MRP and size, and a count change is a correction with a reason. The first-run example comes from your own trade, and Help & Guide opens from the menu, Settings and the ? on each main screen."
+  "notes": "Profit is right when part of an item is sold another way, like a cut piece of plate by the kilo, and old bills are corrected too. No false Not enough stock for a sale by the kilo, and the bill line shows the right unit. The same plate can go on one bill twice, whole and by the kilo. A line of 0 will not save, and money above the bill shows as change to give back."
 }
