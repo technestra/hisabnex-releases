@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.12",
+  "versionCode": 13,
+  "versionName": "1.13",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "Sale and Purchase are now separate screens, and the side menu has Quick add for a sale, a purchase, an item, a customer or a supplier. A purchase line starts empty, shows the last lot for reference and takes an expiry date. A chosen supplier can be removed, and a name two suppliers share is asked about instead of blocking the bill. The item form is three boxes and offers the stock once saved. On a tablet held sideways the side menu stays beside the screen."
+  "notes": "A saved bill now shows as it will print, in five formats (Classic, Modern, Tally, Compact half page, 80 mm roll), and can be shared as a PDF. Printing is fixed on A4 and on the roll: long names wrap, amounts line up, and a long bill goes on to more pages. Add your logo and signature in the business profile and they are printed on every bill; the profile also makes a shop card in five designs that you can share. New Expenses screen: rent, salary and other costs come out of the profit and out of the cash and bank balance. Stock can be shown as cards. Customers and Suppliers are separate screens. A shop chooses retail, wholesale or both. History filters by time, kind and payment together and shows the collection. The item picker warns of low stock. Home says Cash + Bank Balance, To Collect and To Pay."
 }
