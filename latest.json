@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.13",
+  "versionCode": 14,
+  "versionName": "1.14",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "A saved bill now shows as it will print, in five formats (Classic, Modern, Tally, Compact half page, 80 mm roll), and can be shared as a PDF. Printing is fixed on A4 and on the roll: long names wrap, amounts line up, and a long bill goes on to more pages. Add your logo and signature in the business profile and they are printed on every bill; the profile also makes a shop card in five designs that you can share. New Expenses screen: rent, salary and other costs come out of the profit and out of the cash and bank balance. Stock can be shown as cards. Customers and Suppliers are separate screens. A shop chooses retail, wholesale or both. History filters by time, kind and payment together and shows the collection. The item picker warns of low stock. Home says Cash + Bank Balance, To Collect and To Pay."
+  "notes": "A cleaner look: square cards and boxes, lightly rounded buttons, a coloured bar on each row (red while money is due or stock is low) and tidier menus. The printed bill now carries its note, a purchase's lot number, and the cash given with the change returned. Expiry is typed as MM/YYYY; an expired lot cannot be received, and Expiring Soon is worked out from the lots in stock. Mobile numbers are exactly 10 digits. Home shows how Cash + Bank Balance is counted and how much of today's sale is still due. History has three filter buttons and a clearer collection card. The shop card comes in 8 designs and 12 colours. The daybook sheet has full details, and there is a new customers and suppliers sheet. Turning the phone no longer brings the PIN lock back. A shop set to wholesale only is no longer offered the retail rate."
 }
