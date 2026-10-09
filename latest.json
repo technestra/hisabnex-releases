@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.14",
+  "versionCode": 15,
+  "versionName": "1.15",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "A cleaner look: square cards and boxes, lightly rounded buttons, a coloured bar on each row (red while money is due or stock is low) and tidier menus. The printed bill now carries its note, a purchase's lot number, and the cash given with the change returned. Expiry is typed as MM/YYYY; an expired lot cannot be received, and Expiring Soon is worked out from the lots in stock. Mobile numbers are exactly 10 digits. Home shows how Cash + Bank Balance is counted and how much of today's sale is still due. History has three filter buttons and a clearer collection card. The shop card comes in 8 designs and 12 colours. The daybook sheet has full details, and there is a new customers and suppliers sheet. Turning the phone no longer brings the PIN lock back. A shop set to wholesale only is no longer offered the retail rate."
+  "notes": "When a new version is out, the app now tells you as it opens, with Update now and Skip. Stock has three buttons: All stock, Available stock and Expired. History, Customers, Suppliers and Expenses can be shown as a list or as cards. Home names who To Collect and To Pay are made of, and a recent bill shows one figure: Due in red or Paid in green. Expenses opens with the total, and the form opens from an Add expense button. A new item on a bill appears at the top. Fixed: a bill marked Full no longer leaves a few paise due when it is rounded off afterwards, and an expiry typed with a one-digit month no longer comes out wrong. Colours are calmer: green and white, with soft warnings."
 }
