@@ -1,6 +1,7 @@
+
 {
-  "versionCode": 15,
-  "versionName": "1.15",
+  "versionCode": 16,
+  "versionName": "1.16",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "When a new version is out, the app now tells you as it opens, with Update now and Skip. Stock has three buttons: All stock, Available stock and Expired. History, Customers, Suppliers and Expenses can be shown as a list or as cards. Home names who To Collect and To Pay are made of, and a recent bill shows one figure: Due in red or Paid in green. Expenses opens with the total, and the form opens from an Add expense button. A new item on a bill appears at the top. Fixed: a bill marked Full no longer leaves a few paise due when it is rounded off afterwards, and an expiry typed with a one-digit month no longer comes out wrong. Colours are calmer: green and white, with soft warnings."
+  "notes": "IMPORTANT: add your opening balance once. Open My Details, then Cash & Bank, and put in what your cash drawer and your bank hold today. From this version a payment cannot be more than the drawer or the bank holds, so a purchase paid in cash is refused until the balance is added. Buying on credit is not affected. New: Cash & Bank screen for opening balance and withdrawals. An entry can be changed between Cash, UPI and Bank. Money from a customer is now shown as Received. Expiry is shown on the stock list, on each lot and on the item's edit screen. Stock buttons: All stock, Available stock, Expired. A new item on a bill appears at the top. Fixed: a bill marked Full no longer leaves a small due after round-off, and the pop-up for a payment or a return now uses the right words."
 }
