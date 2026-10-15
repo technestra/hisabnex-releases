@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.19",
+  "versionCode": 20,
+  "versionName": "1.20",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "New: returns from customers. Turn on Returns from customers in Settings, then open a sale and tap Return items: the goods go back in stock (or are written off if damaged) and the customer gets the money back in cash, by bank, or off their account. Fixed: a bill with a discount on an item now prints that discount on the item and adds up; only the bill's own discount shows under the subtotal. The logo and signature now travel with a backup. Reports show only the profit lines that hold something. History says what a payment was for (Paid to supplier for PUR-...), and a supplier's page shows the discount on its bills. Settings offers a one-time fix for lots bought at a discount before 1.18. Also since 1.16: a mobile number on every bill, Cash or Bank everywhere, Cash and Bank history, the business report as PDF, Excel or CSV, and expenses paid from Outside."
+  "notes": "New: a Newest first / Oldest first button on every history list: History, a customer's or supplier's entries, Cash and Bank, Expenses and an item's stock history. Fixed: a long line on a History or Home entry no longer squeezes the amount into one letter a line. Also since 1.16: returns from customers, a mobile number on every bill, Cash or Bank everywhere, Cash and Bank history, and the business report as PDF, Excel or CSV."
 }
