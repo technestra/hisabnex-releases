@@ -1,6 +1,7 @@
+
 {
-  "versionCode": 20,
-  "versionName": "1.20",
+  "versionCode": 21,
+  "versionName": "1.21",
   "apkUrl": "https://github.com/technestra/hisabnex-releases/releases/latest/download/hisabnex-latest.apk",
-  "notes": "New: a Newest first / Oldest first button on every history list: History, a customer's or supplier's entries, Cash and Bank, Expenses and an item's stock history. Fixed: a long line on a History or Home entry no longer squeezes the amount into one letter a line. Also since 1.16: returns from customers, a mobile number on every bill, Cash or Bank everywhere, Cash and Bank history, and the business report as PDF, Excel or CSV."
+  "notes": "New: four Today cards on Home (Sales, Purchase, Profit, Expense), each opening its screen on Today, and an Incl. expenses switch on the profit. A Date button, with Today, This Week, This Month and All Time, on Cash and Bank, History, Reports, Customers and Suppliers. On Cash and Bank the button you tap is the one shown filled. Also since 1.20: Newest first / Oldest first on every history list."
 }
